@@ -1,7 +1,7 @@
 # jinja_django
 
 
-## Request methods 
+## Request object attributes
 
 - {{ request.scheme }}  Output:-> http
 - {{ request.path  }}  Output:-> /user/update/blog/dbms
